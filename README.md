@@ -26,3 +26,4 @@ As part of my Physics course revision, I aim to implement an experiment in Pytho
     - Recall Half-Lives of previously added materials and data
     - Export tables into CSV so it may be imported in spreadsheet software
     - Export graphs as image files
+- Add a REQUIREMENTS.txt
